@@ -1,4 +1,4 @@
-package com.example.searchservice;
+package com.example.SearchService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class SearchServiceApplication {
     public static void main(String[] args) {
         SpringApplication.run(SearchServiceApplication.class, args);
     }
-
 }

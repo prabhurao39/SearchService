@@ -1,4 +1,4 @@
-package com.example.searchservice;
+package com.example.SearchService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
